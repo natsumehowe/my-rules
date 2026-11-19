@@ -1,16 +1,18 @@
-# my-icons
-Personal icon set for Quantumult X
-# My QX Icon Set
+My Rules
 
-Personal icon gallery for Quantumult X.
+Personal collection of proxy rules and icons for Quantumult X and other proxy clients.
 
-## Notice
+Contents
+
+* RuleSet — Custom proxy rules and configurations.
+* IconSet — Personal icon collection for Quantumult X.
+
+Notice
 
 This repository is for personal use only.
 
-Some icons are trademarks, logos, favicons, or app icons owned by their respective companies or creators.  
-All rights belong to their original owners.
+Some icons, logos, and trademarks belong to their respective owners. All rights remain with the original creators.
 
-This repository does not claim ownership of third-party icons and is not affiliated with, endorsed by, or sponsored by any related brand or company.
+This repository is not affiliated with or endorsed by any related company or brand.
 
-If any rights holder wants an icon removed, please open an issue or contact me.
+For removal requests, please open an issue.
